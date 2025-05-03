@@ -1,0 +1,5 @@
+# Collect data at 08:00, 12:00, and 15:00
+0 8,12,15 * * * /bin/bash /home/cron/collect_data.sh
+
+# Clean data daily at 23:00
+0 23 * * * /bin/bash /home/cron/clean_old_data.sh
