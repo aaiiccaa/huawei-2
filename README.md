@@ -1,4 +1,4 @@
-Tugas 2: Automation Testing
+# Tugas 2: Automation Testing
 
 Repositori ini berisi skrip cron untuk:
 
